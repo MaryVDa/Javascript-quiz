@@ -19,7 +19,7 @@ THEN the game is over
 WHEN the game is over
 THEN I can save my initials and score
 
-Application Link:
+Application Link: https://maryvda.github.io/Javascript-quiz/
 
 Screenshot:
 ![image](https://user-images.githubusercontent.com/122223756/223309269-53ff5c96-2b59-4803-a83c-c19a48344667.png)
